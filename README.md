@@ -1,3 +1,4 @@
-# My Awesome Book
+# 前端知识学习汇总
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+汇总一些基础知识，等到需要用的时候可以随时查阅
+
