@@ -9,7 +9,7 @@
 * Generator学习
 * [HTML5学习](html5xue-xi.md)
 * [CSS学习](cssxue-xi.md)
-  * 选择器
+  * [选择器](cssxue-xi/xuan-ze-qi.md)
   * 字体属性
   * 盒模型
   * 布局属性
