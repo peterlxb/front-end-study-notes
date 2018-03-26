@@ -10,7 +10,7 @@
 * [HTML5学习](html5xue-xi.md)
 * [CSS学习](cssxue-xi.md)
   * [选择器](cssxue-xi/xuan-ze-qi.md)
-  * 字体属性
+  * [字体属性](cssxue-xi/zi-ti-shu-xing.md)
   * 盒模型
   * 布局属性
   * Flex伸缩盒模型
