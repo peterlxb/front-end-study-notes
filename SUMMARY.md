@@ -12,12 +12,13 @@
   * [选择器](cssxue-xi/xuan-ze-qi.md)
   * [字体属性](cssxue-xi/zi-ti-shu-xing.md)
   * [盒模型](cssxue-xi/he-mo-xing.md)
+  * [圆角边框border-radius](cssxue-xi/yuan-jiao-bian-kuang-border-radius.md)
   * 布局属性
   * Flex伸缩盒模型
   * 变形transform属性
   * 过渡transition属性
   * Animation 动画
-  * [CSS面试相关](cssxue-xi/cssmian-shi-xiang-guan.md)
+  * 圆角边框border-radius
 * [DOM总结](domzong-jie.md)
 * [表单操作](biao-dan-cao-zuo.md)
 * Promise学习
