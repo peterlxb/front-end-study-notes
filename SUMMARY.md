@@ -11,7 +11,7 @@
 * [CSS学习](cssxue-xi.md)
   * [选择器](cssxue-xi/xuan-ze-qi.md)
   * [字体属性](cssxue-xi/zi-ti-shu-xing.md)
-  * 盒模型
+  * [盒模型](cssxue-xi/he-mo-xing.md)
   * 布局属性
   * Flex伸缩盒模型
   * 变形transform属性
