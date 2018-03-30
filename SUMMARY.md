@@ -17,7 +17,7 @@
   * [CSS3渐变](cssxue-xi/css3jian-bian.md)
   * [布局属性](cssxue-xi/bu-ju-shu-xing.md)
     * [display属性](cssxue-xi/bu-ju-shu-xing/displayshu-xing.md)
-    * position属性
+    * [position属性](cssxue-xi/bu-ju-shu-xing/positionshu-xing.md)
     * float属性
   * [Flex伸缩盒模型](cssxue-xi/flexshen-suo-he-mo-xing.md)
   * 变形transform属性
