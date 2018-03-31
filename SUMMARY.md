@@ -28,6 +28,7 @@
 * [表单操作](biao-dan-cao-zuo.md)
 * Promise学习
 * [HTTP入门](httpru-men.md)
+  * HTTP原理
 * [简介](jian-jie.md)
 * 入门
 
