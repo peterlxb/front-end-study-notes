@@ -63,13 +63,60 @@ clear 属性规定元素的哪一侧不允许其他浮动元素。
 
 [https://css-tricks.com/almanac/properties/f/float/](https://css-tricks.com/almanac/properties/f/float/ "floats")
 
+在头像中应用浮
 
+```
+<section>
+  <button>toggle image size</button>
+  <div class="user">
+    <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/652/ada-small.jpeg">
+    <h3>Ada Lovelace</h3>
+    <a href="#">Account</a>
+    <a href="#">Change Password</a>
+    <a href="#">Log Out</a>
+  </div>
+</section>
+```
 
+```
+body {
+  background-color: #1D1F1F;
+  font-family: 'Source Sans Pro', sans-serif;
+}
 
+section {
+width: 400px;
+margin: 0 auto; 
+}
 
+.user {
+  width: 400px;
+  height: 165px;
+  margin: 2em 0;
+  border: 3px solid #E18728;
+  border-radius: 10px;
+  background-color: white;
+}
 
+img {
+  padding: .5em;
+  float: left;
+}
 
+a { display: block; }
+```
 
+```
+$('button').on('click', function() {
+  if ($('img').attr('src').indexOf('wide') > -1) {
+    $('img').attr('src', 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/652/ada-small.jpeg');
+  } else {
+    $('img').attr('src', 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/652/ada-wide.jpeg');
+  }
+});
+```
+
+![](/assets/屏幕快照 2018-04-02 上午8.52.07.png)
 
 
 
