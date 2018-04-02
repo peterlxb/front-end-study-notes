@@ -18,7 +18,7 @@
   * [布局属性](cssxue-xi/bu-ju-shu-xing.md)
     * [display属性](cssxue-xi/bu-ju-shu-xing/displayshu-xing.md)
     * [position属性](cssxue-xi/bu-ju-shu-xing/positionshu-xing.md)
-    * float属性
+    * [float属性](cssxue-xi/bu-ju-shu-xing/floatshu-xing.md)
   * [Flex伸缩盒模型](cssxue-xi/flexshen-suo-he-mo-xing.md)
   * 变形transform属性
   * 过渡transition属性
