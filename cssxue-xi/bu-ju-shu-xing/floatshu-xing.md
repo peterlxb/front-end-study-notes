@@ -4,7 +4,7 @@
 
 #### float 属性定义元素在哪个方向浮动.
 
- 以往这个属性总应用于图像，使文本围绕在图像周围，不过在 CSS 中，任何元素都可以浮 动。浮动元素会生成一个块级框，而不论它本身是何种元素。
+以往这个属性总应用于图像，使文本围绕在图像周围，不过在 CSS 中，任何元素都可以浮 动。浮动元素会生成一个块级框，而不论它本身是何种元素。
 
 > 语法:  
 > float:none \| left \| right
@@ -21,7 +21,7 @@
 
 # Clear-清除浮动:
 
-**元素浮动之后，周围的元素会重新排列**，为了避免这种情况，使用 clear 属性。 
+**元素浮动之后，周围的元素会重新排列**，为了避免这种情况，使用 clear 属性。
 
 clear 属性规定元素的哪一侧不允许其他浮动元素。
 
@@ -29,17 +29,17 @@ clear 属性规定元素的哪一侧不允许其他浮动元素。
 >
 > clear:none \| left \| right \| both
 >
->     应用于\(浮动元素\)后续元素;
+> ```
+> 应用于\(浮动元素\)后续元素;
 >
->     应用于块级元素;
-
-
+> 应用于块级元素;
+> ```
 
 #### 使用方式:
 
-#### 1.增加空白元素 
+#### 1.增加空白元素
 
-#### 2.Clearfix 
+#### 2.Clearfix
 
 #### 代码:
 
@@ -58,6 +58,14 @@ clear 属性规定元素的哪一侧不允许其他浮动元素。
 ## Float 应用-两列布局:
 
 ![](/assets/屏幕快照 2018-04-02 上午8.33.10.png)![](/assets/屏幕快照 2018-04-02 上午8.33.19.png)
+
+[https://css-tricks.com/all-about-floats/](https://css-tricks.com/all-about-floats/ "All-About-Floats/")
+
+[https://css-tricks.com/almanac/properties/f/float/](https://css-tricks.com/almanac/properties/f/float/ "floats")
+
+
+
+
 
 
 
