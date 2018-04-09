@@ -21,10 +21,8 @@
     * [float属性](cssxue-xi/bu-ju-shu-xing/floatshu-xing.md)
   * [Flex伸缩盒模型](cssxue-xi/flexshen-suo-he-mo-xing.md)
   * [变形transform属性](cssxue-xi/bian-xing-transform-shu-xing.md)
-  * [变形transform属性](cssxue-xi/bian-xing-transform-shu-xing.md)
+  * [transform-3d 变形](cssxue-xi/transform-3d-bian-xing.md)
   * [过渡transition属性](cssxue-xi/guo-du-transition-shu-xing.md)
-  * [Animation 动画](cssxue-xi/animation-dong-hua.md)
-  * [CSS3渐变](cssxue-xi/css3jian-bian.md)
 * [DOM总结](domzong-jie.md)
 * [表单操作](biao-dan-cao-zuo.md)
 * Promise学习
