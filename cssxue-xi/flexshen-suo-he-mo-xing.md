@@ -25,28 +25,30 @@ Display:flex
 
 ### 与方向有关:
 
+```
 flex-direction
-
-Flex-wrap  
-Flex-flow  
+Flex-wrap
+Flex-flow
 order
+```
 
 ### 与弹性有关:
 
+```
 Flex-basis
-
-Flex-grow  
-Flex-shrink  
+Flex-grow
+Flex-shrink
 flex
+```
 
 ### 与对齐有关:
 
+```
 Justify-content
-
 Align-items
-
-Align-self  
+Align-self
 Align-content
+```
 
 ### Flex-direction:
 
@@ -199,21 +201,16 @@ flex-shrink 的默认值为 1，如果没有显示定义该属性，将会自动
 
 通过收缩因子，所以加权综合可得 200\*1+200\*1+200\*3=1000px;
 
-  
- 于是我们可以计算 a,b,c 将被移除的溢出量是多少:  
+于是我们可以计算 a,b,c 将被移除的溢出量是多少:  
  a 被移除溢出量:\(200\*1/1000\)\*200，即约等于 40px  
  b 被移除溢出量:\(200\*1/1000\)\*200，即约等于 40px  
  c 被移除溢出量:\(200\*3/1000\)\*200，即约等于 120px
 
-  
- 最后 a,b,c 的实际宽度分别为:200-40=160px, 200-40=160px, 200-120=80px;
-
-
+最后 a,b,c 的实际宽度分别为:200-40=160px, 200-40=160px, 200-120=80px;
 
 ### Flex
 
-**flex 属性是 flex-grow, flex-shrink 和 flex-basis 的简写，默认值为 0 1 auto。后两个 属性可选。**  
-
+**flex 属性是 flex-grow, flex-shrink 和 flex-basis 的简写，默认值为 0 1 auto。后两个 属性可选。**
 
 ```
 Flex: [ <'flex-grow'> <'flex-shrink'>? || <'flex-basis'> ]|none
@@ -307,9 +304,9 @@ c 的扩展量:(3/(1+2+3))*600，即约等于 300px
 
 从本例能看出:
 
-   1.当「flex-basis」在「flex」属性中不为 0 时\(包括值为 auto，此时伸缩基准值等于自身内容宽度\)，「flex 子项」将分配容器的剩余空间\(剩余空间即等于容器宽度减去 各项的伸缩基准值\)
+1.当「flex-basis」在「flex」属性中不为 0 时\(包括值为 auto，此时伸缩基准值等于自身内容宽度\)，「flex 子项」将分配容器的剩余空间\(剩余空间即等于容器宽度减去 各项的伸缩基准值\)
 
-   2.当「flex-basis」在「flex」属性中等于 0 时，「flex 子项」将分配容器的所有空 间\(因为各项的伸缩基准值相加等于 0，剩余空间等于容器宽度减去各项的伸缩基准值，即 减 0，最后剩余空间值等于容器宽度\)，所以可以借助此特性，给各子项定义「flex: n」 来进行按比例均分容器总宽度
+2.当「flex-basis」在「flex」属性中等于 0 时，「flex 子项」将分配容器的所有空 间\(因为各项的伸缩基准值相加等于 0，剩余空间等于容器宽度减去各项的伸缩基准值，即 减 0，最后剩余空间值等于容器宽度\)，所以可以借助此特性，给各子项定义「flex: n」 来进行按比例均分容器总宽度
 
 ### Justify-content
 
@@ -391,4 +388,12 @@ stretch(默认值):轴线占满整个交叉轴。
 ![](/assets/屏幕快照 2018-04-09 上午10.24.03.png)
 
 ![](/assets/屏幕快照 2018-04-09 上午10.24.23.png)
+
+
+
+[https://css-tricks.com/snippets/css/a-guide-to-flexbox/](https://css-tricks.com/snippets/css/a-guide-to-flexbox/ "a-guide-to-flexbox")
+
+
+
+
 
