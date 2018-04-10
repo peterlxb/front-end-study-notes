@@ -23,6 +23,7 @@
   * [变形transform属性](cssxue-xi/bian-xing-transform-shu-xing.md)
   * [transform-3d 变形](cssxue-xi/transform-3d-bian-xing.md)
   * [Transition 过渡](cssxue-xi/guo-du-transition-shu-xing.md)
+  * [Animation 动画](cssxue-xi/animation-dong-hua.md)
 * [DOM总结](domzong-jie.md)
 * [表单操作](biao-dan-cao-zuo.md)
 * Promise学习
