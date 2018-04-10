@@ -26,6 +26,15 @@
   * [Animation 动画](cssxue-xi/animation-dong-hua.md)
 * 页面架构与布局
   * [CSS Reset](css-reset.md)
+  * 居中布局
+  * 垂直居中
+  * 水平-垂直居中
+  * 多列布局
+  * 等高布局:
+  * 全屏布局
+  * 响应式布局
+  * 页面优化
+  * 规范与模块化
 * [DOM总结](domzong-jie.md)
 * [表单操作](biao-dan-cao-zuo.md)
 * Promise学习
