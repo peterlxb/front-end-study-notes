@@ -2,9 +2,9 @@
 
 * [Introduction](README.md)
 * [JavaScript基本知识](chapter1.md)
-* JavaScript进阶知识
-* JavaScript数据结构与算法
-* ES6语法汇总
+* [JavaScript进阶知识](javascriptjin-jie-zhi-shi.md)
+* [JavaScript数据结构与算法](javascriptshu-ju-jie-gou-yu-suan-fa.md)
+* [ES6语法汇总](es6yu-fa-hui-zong.md)
 * Promise学习
 * [Generator学习](generatorxue-xi.md)
 * [HTML5学习](html5xue-xi.md)
@@ -26,7 +26,7 @@
   * [Animation 动画](cssxue-xi/animation-dong-hua.md)
 * 页面架构与布局
   * [CSS Reset](css-reset.md)
-  * 居中布局
+  * [居中布局](ju-zhong-bu-ju.md)
   * 垂直居中
   * 水平-垂直居中
   * 多列布局
