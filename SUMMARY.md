@@ -31,7 +31,7 @@
   * [水平-垂直居中](shui-5e73-chui-zhi-ju-zhong.md)
   * [多列布局](duo-lie-bu-ju.md)
   * [等高布局:](deng-gao-bu-5c403a.md)
-  * 全屏布局
+  * [全屏布局](quan-ping-bu-ju.md)
   * 响应式布局
   * 页面优化
   * 规范与模块化
