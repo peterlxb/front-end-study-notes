@@ -28,7 +28,7 @@
   * [CSS Reset](css-reset.md)
   * [居中布局](ju-zhong-bu-ju.md)
   * [垂直居中](chui-zhi-ju-zhong.md)
-  * 水平-垂直居中
+  * [水平-垂直居中](shui-5e73-chui-zhi-ju-zhong.md)
   * 多列布局
   * 等高布局:
   * 全屏布局
