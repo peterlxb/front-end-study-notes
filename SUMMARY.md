@@ -34,12 +34,12 @@
   * [全屏布局](quan-ping-bu-ju.md)
   * [响应式](ye-mian-you-hua.md)
   * [页面优化](xiang-ying-shi-bu-ju.md)
-  * [模块化](xiang-ying-shi-bu-ju.md)
 * [DOM总结](domzong-jie.md)
 * [表单操作](biao-dan-cao-zuo.md)
 * Promise学习
 * [HTTP入门](httpru-men.md)
   * [HTTP原理](httpru-men/httpyuan-li.md)
+* [模块](xiang-ying-shi-bu-ju.md)
 * [简介](jian-jie.md)
 * 入门
 
