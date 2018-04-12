@@ -32,8 +32,8 @@
   * [多列布局](duo-lie-bu-ju.md)
   * [等高布局:](deng-gao-bu-5c403a.md)
   * [全屏布局](quan-ping-bu-ju.md)
-  * 响应式布局
-  * 页面优化
+  * [响应式布局](xiang-ying-shi-bu-ju.md)
+  * [页面优化](ye-mian-you-hua.md)
   * 规范与模块化
 * [DOM总结](domzong-jie.md)
 * [表单操作](biao-dan-cao-zuo.md)
