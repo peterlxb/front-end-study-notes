@@ -37,7 +37,7 @@
 * [DOM总结](domzong-jie.md)
 * [DOM编程艺术-基础篇](dombian-cheng-yi-672f-ji-chu-pian.md)
 * [节点操作](jie-dian-cao-zuo.md)
-* 属性操作
+* [属性操作](shu-xing-cao-zuo.md)
 * 样式操作
 * DOM事件
 * [表单操作](biao-dan-cao-zuo.md)
