@@ -39,8 +39,6 @@
 
 ![](/assets/屏幕快照 2018-04-14 上午9.07.49.png)![](/assets/屏幕快照 2018-04-14 上午9.08.11.png)
 
-
-
 ### innerHTML
 
 ![](/assets/屏幕快照 2018-04-14 上午9.08.53.png)
@@ -70,25 +68,9 @@ insertAdjacentElement
 insertAdjacentHTML
 ```
 
+### appendChild
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![](/assets/屏幕快照 2018-04-17 上午8.40.57.png)
 
 
 

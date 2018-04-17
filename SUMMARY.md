@@ -35,11 +35,12 @@
   * [响应式](ye-mian-you-hua.md)
   * [页面优化](xiang-ying-shi-bu-ju.md)
 * [DOM总结](domzong-jie.md)
-* [DOM编程艺术-基础篇](dombian-cheng-yi-672f-ji-chu-pian.md)
-* [节点操作](jie-dian-cao-zuo.md)
-* [属性操作](shu-xing-cao-zuo.md)
-* 样式操作
-* DOM事件
+  * DOM介绍
+  * [DOM编程艺术-基础篇](dombian-cheng-yi-672f-ji-chu-pian.md)
+  * [节点操作](jie-dian-cao-zuo.md)
+  * [属性操作](shu-xing-cao-zuo.md)
+  * [样式操作](yang-shi-cao-zuo.md)
+  * DOM事件
 * [表单操作](biao-dan-cao-zuo.md)
 * Promise学习
 * [HTTP入门](httpru-men.md)
