@@ -19,19 +19,7 @@
 > **扩展性 ×  
 > 实用对象√**
 
-
-
 ## getAttribute/setAttribute进行属性操作
-
-
-
-
-
-
-
-
-
-
 
 
 
