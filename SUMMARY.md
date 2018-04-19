@@ -40,7 +40,7 @@
   * [节点操作](jie-dian-cao-zuo.md)
   * [属性操作](shu-xing-cao-zuo.md)
   * [样式操作](yang-shi-cao-zuo.md)
-  * DOM事件
+  * [DOM事件](domshi-jian.md)
 * [表单操作](biao-dan-cao-zuo.md)
 * Promise学习
 * [HTTP入门](httpru-men.md)
