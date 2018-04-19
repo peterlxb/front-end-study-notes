@@ -45,6 +45,7 @@
 * Promise学习
 * [HTTP入门](httpru-men.md)
   * [HTTP原理](httpru-men/httpyuan-li.md)
+  * [HTTP简介](httpru-men/httpjian-jie.md)
 * [模块](xiang-ying-shi-bu-ju.md)
 * [简介](jian-jie.md)
 * 入门
