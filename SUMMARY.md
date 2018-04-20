@@ -41,10 +41,11 @@
   * [属性操作](shu-xing-cao-zuo.md)
   * [样式操作](yang-shi-cao-zuo.md)
   * [DOM事件](domshi-jian.md)
+  * [Ajax](ajax.md)
 * [HTTP入门](httpru-men.md)
-  * [HTTP原理](httpru-men/httpyuan-li.md)
-  * [HTTP简介](httpru-men/httpjian-jie.md)
   * [简介](jian-jie.md)
+  * [HTTP简介](httpru-men/httpjian-jie.md)
+  * [HTTP原理](httpru-men/httpyuan-li.md)
 * [表单操作](biao-dan-cao-zuo.md)
 * Promise学习
 * [入门](ru-men.md)
