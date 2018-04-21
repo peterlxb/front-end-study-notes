@@ -44,6 +44,7 @@
   * [Ajax](ajax.md)
   * [CORS 跨域](cors-kua-yu.md)
   * [数据存储](shu-ju-cun-chu.md)
+  * [动画](dong-hua.md)
 * [HTTP入门](httpru-men.md)
   * [简介](jian-jie.md)
   * [HTTP简介](httpru-men/httpjian-jie.md)
