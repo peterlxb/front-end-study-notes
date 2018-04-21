@@ -8,6 +8,7 @@
 * Promise学习
 * [Generator学习](generatorxue-xi.md)
 * [HTML5学习](html5xue-xi.md)
+  * [canvas](html5xue-xi/canvas.md)
 * [CSS学习](cssxue-xi.md)
   * [选择器](cssxue-xi/xuan-ze-qi.md)
   * [字体属性](cssxue-xi/zi-ti-shu-xing.md)
