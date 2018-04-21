@@ -42,6 +42,7 @@
   * [样式操作](yang-shi-cao-zuo.md)
   * [DOM事件](domshi-jian.md)
   * [Ajax](ajax.md)
+  * [CORS 跨域](cors-kua-yu.md)
 * [HTTP入门](httpru-men.md)
   * [简介](jian-jie.md)
   * [HTTP简介](httpru-men/httpjian-jie.md)
