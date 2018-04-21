@@ -46,11 +46,12 @@
   * [CORS 跨域](cors-kua-yu.md)
   * [数据存储](shu-ju-cun-chu.md)
   * [动画](dong-hua.md)
+  * [BOM](bom.md)
+* [表单操作](biao-dan-cao-zuo.md)
 * [HTTP入门](httpru-men.md)
   * [简介](jian-jie.md)
   * [HTTP简介](httpru-men/httpjian-jie.md)
   * [HTTP原理](httpru-men/httpyuan-li.md)
-* [表单操作](biao-dan-cao-zuo.md)
 * Promise学习
 * [入门](ru-men.md)
 
