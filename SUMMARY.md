@@ -55,6 +55,8 @@
   * [input元素](biao-dan-cao-zuo/inputyuan-su.md)
   * [select 元素](biao-dan-cao-zuo/select-yuan-su.md)
   * [textarea 元素](biao-dan-cao-zuo/textarea-yuan-su.md)
+  * [表单验证](biao-dan-cao-zuo/biao-dan-yan-zheng.md)
+  * [表单提交](biao-dan-cao-zuo/biao-dan-ti-jiao.md)
 * [HTTP入门](httpru-men.md)
   * [简介](jian-jie.md)
   * [HTTP简介](httpru-men/httpjian-jie.md)
