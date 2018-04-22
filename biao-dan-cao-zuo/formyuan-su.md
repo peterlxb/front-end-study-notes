@@ -46,8 +46,6 @@
 > submit\(\)  
 > checkValidity\(\)**
 
-
-
 #### reset\(\)
 
 > **可重置元素:input,keygen,output,slect,textarea  
@@ -57,9 +55,9 @@
 
 ![](/assets/屏幕快照 2018-04-23 上午7.05.01.png)
 
+#### 如何处理由于浏览器设置导致的 autocomplete="off"失效的问题
 
-
-
+![](/assets/屏幕快照 2018-04-23 上午7.38.15.png)
 
 
 
