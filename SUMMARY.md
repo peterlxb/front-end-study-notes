@@ -35,6 +35,11 @@
   * [全屏布局](quan-ping-bu-ju.md)
   * [响应式](ye-mian-you-hua.md)
   * [页面优化](xiang-ying-shi-bu-ju.md)
+* JavaScript and the DOM
+  * [The DOM](the-dom.md)
+  * Modify Page Content
+  * Browser Events
+  * Performance
 * [DOM总结](domzong-jie.md)
   * DOM介绍
   * [DOM编程艺术-基础篇](dombian-cheng-yi-672f-ji-chu-pian.md)
