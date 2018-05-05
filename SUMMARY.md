@@ -82,4 +82,6 @@
   * [HTTP原理](httpru-men/httpyuan-li.md)
 * Promise学习
 * 云课堂笔记
+* 小程序入门
+  * 介绍
 
