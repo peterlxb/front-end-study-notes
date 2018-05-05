@@ -9,7 +9,7 @@
 * [Generator学习](generatorxue-xi.md)
 * 云课堂笔记
   * 页面架构
-    * 入门
+    * [入门](ru-men.md)
   * 移动页面开发
     * 入门
   * 单页系统
