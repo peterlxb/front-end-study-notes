@@ -7,6 +7,12 @@
 * [ES6语法汇总](es6yu-fa-hui-zong.md)
 * Promise学习
 * [Generator学习](generatorxue-xi.md)
+* 云课堂笔记
+  * 页面架构
+  * 移动页面开发
+  * 单页系统
+  * 前端工程化
+  * 前端开发实战
 * [HTML5学习](html5xue-xi.md)
   * [canvas](html5xue-xi/canvas.md)
 * [CSS学习](cssxue-xi.md)
@@ -70,5 +76,5 @@
   * [HTTP简介](httpru-men/httpjian-jie.md)
   * [HTTP原理](httpru-men/httpyuan-li.md)
 * Promise学习
-* [入门](ru-men.md)
+* 云课堂笔记
 
