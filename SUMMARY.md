@@ -89,7 +89,7 @@
   * [CSS](mian-shi-xiang-guan-zong-jie/css.md)
   * [DOM](mian-shi-xiang-guan-zong-jie/dom.md)
   * [JS](mian-shi-xiang-guan-zong-jie/js.md)
-  * Ajax
+  * [Ajax](mian-shi-xiang-guan-zong-jie/ajax.md)
   * Webpack
   * HTTP
   * 跨域相关
