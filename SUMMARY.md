@@ -94,6 +94,6 @@
   * HTTP
   * 跨域相关
   * [Web安全](mian-shi-xiang-guan-zong-jie/weban-quan.md)
-  * Babel相关
+  * [Babel相关](mian-shi-xiang-guan-zong-jie/babelxiang-guan.md)
   * [Ajax](mian-shi-xiang-guan-zong-jie/ajax.md)
 
