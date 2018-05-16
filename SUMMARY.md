@@ -89,10 +89,11 @@
   * [CSS](mian-shi-xiang-guan-zong-jie/css.md)
   * [DOM](mian-shi-xiang-guan-zong-jie/dom.md)
   * [JS](mian-shi-xiang-guan-zong-jie/js.md)
+  * Ajax
   * Webpack
   * HTTP
   * 跨域相关
   * [Web安全](mian-shi-xiang-guan-zong-jie/weban-quan.md)
   * Babel相关
-  * [数据结构](mian-shi-xiang-guan-zong-jie/shu-ju-jie-gou.md)
+  * [Ajax](mian-shi-xiang-guan-zong-jie/ajax.md)
 
