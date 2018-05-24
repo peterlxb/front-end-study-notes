@@ -4,6 +4,8 @@
 * [JavaScript基本知识](chapter1.md)
 * [JavaScript进阶知识](javascriptjin-jie-zhi-shi.md)
 * [JavaScript数据结构与算法](javascriptshu-ju-jie-gou-yu-suan-fa.md)
+  * 冒泡排序
+  * [快速排序](javascriptshu-ju-jie-gou-yu-suan-fa/kuai-su-pai-xu.md)
 * [ES6语法汇总](es6yu-fa-hui-zong.md)
 * Promise学习
 * [Generator学习](generatorxue-xi.md)
