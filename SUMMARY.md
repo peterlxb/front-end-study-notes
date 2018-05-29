@@ -91,6 +91,8 @@
   * [HTTP原理](httpru-men/httpyuan-li.md)
 * Promise学习
 * 云课堂笔记
+  * 前端工程化
+    * [工程规范](gong-cheng-gui-fan.md)
 * 小程序入门
   * 介绍
 * [面试相关总结](mian-shi-xiang-guan-zong-jie.md)
